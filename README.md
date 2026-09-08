@@ -21,18 +21,20 @@ Cada estación está diseñada como un módulo de aprendizaje independiente que 
 El repositorio se encuentra organizado en carpetas independientes para cada una de las estaciones de trabajo. **Dentro de cada carpeta encontrarás un `README.md` específico** con el paso a paso detallado, diagramas, software a descargar, componentes requeridos y código para su implementación:
 
 ```text
-.
 ├── 📂 Estacion_1_Makey_Makey/
-│   ├── README.md                 <-- Guía paso a paso, circuito y código Scratch
-│   └── ESTACION_1_FINAL.pptx     <-- Presentación de apoyo pedagógico
+│   ├── README.md                 <-- Piano Digital, circuito y código Scratch
+│   └── ESTACION_1_FINAL.pptx     <-- Presentación de apoyo
 │
-├── 📂 Estacion_2_Robotica/       <-- Próximamente / En desarrollo
-│   └── README.md
+├── 📂 Estacion_2_Codey_Rocky/
+│   ├── README.md                 <-- Laberinto, mapa de eventos y código mBlock
+│   └── ESTACION_2_FINAL.pptx     <-- Presentación de apoyo
 │
-├── 📂 Estacion_3_Robotica/       <-- Próximamente / En desarrollo
-│   └── README.md
+├── 📂 Estacion_3_mBot2/
+│   ├── README.md                 <-- Desafío Sumo, algoritmos RGB/Ultrasónico y Python
+│   └── ESTACION_3_FINAL.pptx     <-- Presentación de apoyo
 │
-├── 📂 Estacion_4_Robotica/       <-- Próximamente / En desarrollo
-│   └── README.md
+├── 📂 Estacion_4_Robotica_Educativa/
+│   ├── README.md                 <-- Codey Rocky (Laberinto) & Meccanoid (Comandos de Voz)
+│   └── ESTACION 4 (KEVIN + CODEY ROCKY).pptx <-- Presentación de apoyo
 │
 └── README.md                     <-- (Este archivo) Visión general del taller
